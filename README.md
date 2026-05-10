@@ -21,9 +21,10 @@
 ## راه‌اندازی
 
 1. این ریپازیتوری را **fork** کنید و نام آن را **تغییر ندهید** (اگر تغییر دهید، باید در `main.py` هم اسم جدید را وارد کنید).
-2. ریپو را روی سیستم خود Clone کنید: `git clone https://github.com/soheilditf5-svg/downloader.git`
-3. وارد پوشه پروژه شوید: `cd downloader`
-4. روی فایل `req.bat` دوبار کلیک کنید تا پیش‌نیازها نصب شوند.
+2. به ریپازیتوری که fork کرده‌اید در گیت‌هاب بروید. روی تب **Actions** کلیک کنید و اگر پیغام فعال‌سازی Workflowها را دیدید، دکمه **I understand my workflows, go ahead and enable them** یا مشابه آن را بزنید تا اجرای اکشن‌ها فعال شود.
+3. ریپو را روی سیستم خود Clone کنید: `git clone https://github.com/soheilditf5-svg/downloader.git`
+4. وارد پوشه پروژه شوید: `cd downloader`
+5. روی فایل `req.bat` دوبار کلیک کنید تا پیش‌نیازها نصب شوند.
 
 ## تنظیمات
 
